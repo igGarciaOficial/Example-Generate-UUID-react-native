@@ -14,7 +14,7 @@ Project created to show how to create UUIDs with react-native-uuid libriry.
 
 3. Connect the device on computer ou start up the emulator
 
-4. Open a new tab in the terminal on project's folder e type:
+4. Open a new tab in the terminal on project's folder and type:
 
 *For android
 
